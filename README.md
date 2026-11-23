@@ -1,17 +1,17 @@
-<!-- HEADER BANNER (Auto-generated waving banner) -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3E7A,100:1E3A8A&height=180&section=header&text=Aramide%20Jamiu%20Kolawole&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer%20%7C%20Founder%20@Chekka&descFontSize=18&descAlignY=68&descColor=93C5FD" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3E7A,100:1E3A8A&height=180&section=header&text=Aramide%20Jamiu%20Kolawole&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer%20%7C%20Founder%20@QuickErrand&descFontSize=18&descAlignY=68&descColor=93C5FD" width="100%"/>
 </div>
 
 <!-- BADGES: PORTFOLIO, LINKEDIN, EMAIL, VIEWS -->
 <div align="center">
-  <a href="https://aramidekolawole.vercel.app" target="_blank">
+  <a href="https://aramidedev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F3E7A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aramide-jamiu" target="_blank">
+  <a href="https://www.linkedin.com/in/aramide-jamiu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aramjkolawole@gmail.com">
+  <a href="mailto:aramidejkolawole@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Aramide-jk&style=for-the-badge&color=0F3E7A" alt="Profile Views" />
@@ -25,16 +25,17 @@
 const aramide = {
   role: "Founder & Full-Stack Software Engineer",
   location: "Lagos, Nigeria 🌍",
-  founder: "Chekka (Vehicle Inspection & Escrow Platform)",
-  focus: ["Distributed Systems", "Real-Time APIs", "Fintech & Escrow Workflows"],
-  stack: ["TypeScript", "Next.js 16", "NestJS", "PostgreSQL", "Redis", "AWS"],
+  founder: "QuickErrand (Hyperlocal Campus Marketplace & Dispatch Engine)",
+  focus: ["Distributed Systems", "Spatial Indexing (PostGIS)", "Financial Ledgers & Escrow"],
+  stack: ["TypeScript", "Next.js 16", "NestJS", "PostgreSQL", "Redis", "AWS", "Terraform"],
   philosophy: "Architect clean domain boundaries, automate infrastructure, ship with velocity.",
   openTo: ["High-impact Software Engineering roles", "Distributed Systems & Cloud Architecture"]
 };
 ```
 
-- 🚀 **Founder @Chekka:** Architecting an on-demand vehicle inspection platform with digital escrow and real-time SSE photo streaming.
-- ⚡ **Engineering Discipline:** Experienced in PostGIS spatial dispatch engines (<100ms), double-entry accounting ledgers, and Redis distributed locks.
+- 🚀 **Founder @QuickErrand:** Architected an on-demand campus dispatch marketplace with sub-100ms PostGIS proximity courier matching and an ACID-compliant double-entry ledger.
+- 🛡️ **Chekka Platform:** Engineered an on-demand vehicle inspection platform featuring live Server-Sent Events (SSE) photo streaming and automated Paystack escrow releases.
+- ⚡ **Distributed Systems:** Experienced in transactional outbox workers via BullMQ, Redis distributed locks (`SETNX`), and multi-tenant Turborepo monorepos.
 - ☁️ **Cloud Native:** I codify production cloud infrastructure with Terraform, Docker, and AWS ECS Fargate.
 - 🧪 **Test-Driven:** 100% pass rates across automated E2E and integration test suites using Playwright and Vitest.
 
