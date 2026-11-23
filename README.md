@@ -34,7 +34,7 @@ const aramide = {
 
 * 🔭 I architect and ship **full-stack products & monorepos end to end** — web, mobile, APIs, and cloud infrastructure.
 * ⚡ Engineering across **TypeScript, Next.js 16, NestJS, PostgreSQL/PostGIS**, and AWS cloud automation.
-* 🏢 **Founder of QuickErrand**; I build on-demand campus dispatch engines, financial ledgers, and marketplace software.
+* 🏢 **Founder of https://QuickErrand.com.ng**; I build on-demand campus dispatch engines, financial ledgers, and marketplace software.
 * 🧠 Deepening **distributed systems, spatial computing, and large-scale cloud architecture**.
 * 🤝 Open to collaborating on **high-impact software engineering and cloud-native projects**.
 
