@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3E7A,100:1E3A8A&height=180&section=header&text=Aramide%20Jamiu%20Kolawole&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Engineer%20%7C%20Founder%20@QuickErrand&descFontSize=18&descAlignY=68&descColor=93C5FD" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3E7A,100:1E3A8A&height=180&section=header&text=Aramide%20Jamiu%20Kolawole&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Software%20%26%20DevOps%20Engineer%20%7C%20Founder%20@QuickErrand&descFontSize=18&descAlignY=68&descColor=93C5FD" width="100%"/>
 </div>
 
 <!-- BADGES: PORTFOLIO, LINKEDIN, EMAIL, VIEWS -->
@@ -8,7 +8,7 @@
   <a href="https://aramidedev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F3E7A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aramide-jamiu" target="_blank">
+  <a href="https://linkedin.com/in/aramide-jamiu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aramidejkolawole@gmail.com">
@@ -18,7 +18,9 @@
 </div>
 
 <br/>
+
 ### 💫 About me
+
 ```typescript
 const aramide = {
   role: "Software & DevOps Engineer",
@@ -29,13 +31,17 @@ const aramide = {
   openTo: ["High-impact Software Engineering", "Backend & Cloud Architecture", "Startup Ventures"]
 };
 ```
+
 * 🔭 I architect and ship **full-stack products & monorepos end to end** — web, mobile, APIs, and cloud infrastructure.
 * ⚡ Engineering across **TypeScript, Next.js 16, NestJS, PostgreSQL/PostGIS**, and AWS cloud automation.
 * 🏢 **Founder of QuickErrand**; I build on-demand campus dispatch engines, financial ledgers, and marketplace software.
 * 🧠 Deepening **distributed systems, spatial computing, and large-scale cloud architecture**.
 * 🤝 Open to collaborating on **high-impact software engineering and cloud-native projects**.
+
 ---
+
 ### 🛠️ Tech stack · <kbd>click to expand</kbd>
+
 <details open>
   <summary><b>Languages & Core</b></summary>
   <br/>
@@ -43,6 +49,7 @@ const aramide = {
     <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,html,css" />
   </a>
 </details>
+
 <details>
   <summary><b>Backend & APIs</b></summary>
   <br/>
@@ -50,6 +57,7 @@ const aramide = {
     <img src="https://skillicons.dev/icons?i=nestjs,express,postgres,redis,mongodb,supabase" />
   </a>
 </details>
+
 <details>
   <summary><b>Frontend & Design Systems</b></summary>
   <br/>
@@ -57,6 +65,7 @@ const aramide = {
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
   </a>
 </details>
+
 <details>
   <summary><b>DevOps, Cloud & Infrastructure</b></summary>
   <br/>
@@ -64,6 +73,7 @@ const aramide = {
     <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,nginx,cloudflare" />
   </a>
 </details>
+
 <details>
   <summary><b>Testing & Tooling</b></summary>
   <br/>
@@ -71,8 +81,11 @@ const aramide = {
     <img src="https://skillicons.dev/icons?i=jest,vitest,git,github,postman,vscode" />
   </a>
 </details>
+
 ---
+
 ### 🗓️ Building journey · <kbd>click any era</kbd>
+
 <details>
   <summary><b>2021 – 2022 · Foundations & Automotive Marketplace</b></summary>
   <br/>
@@ -82,6 +95,7 @@ const aramide = {
     <li>Mastered server-side rendering, relational data modeling, and Linux administration fundamentals.</li>
   </ul>
 </details>
+
 <details>
   <summary><b>2022 – 2023 · Enterprise Architecture & ERP Systems</b></summary>
   <br/>
@@ -91,6 +105,7 @@ const aramide = {
     <li>Built a client collaboration portal with real-time milestone tracking, photo progress approvals, and direct messaging between site staff and stakeholders.</li>
   </ul>
 </details>
+
 <details open>
   <summary><b>2023 – 2024 · Hyperlocal Spatial Dispatch & FinTech Ledgers</b></summary>
   <br/>
@@ -101,6 +116,7 @@ const aramide = {
     <li>Passed 160+ automated backend and frontend test suites and codified cloud infrastructure on AWS ECS Fargate via Terraform.</li>
   </ul>
 </details>
+
 <details open>
   <summary><b>2024 – Present · Nationwide Monorepos, Escrow & Cloud Systems</b></summary>
   <br/>
@@ -111,8 +127,11 @@ const aramide = {
     <li>Codified multi-environment cloud infrastructure using <b>Terraform</b> with remote S3/DynamoDB state locking, target-tracking ECS Fargate auto-scaling, and CloudFront edge delivery.</li>
   </ul>
 </details>
+
 ---
+
 ### 📊 GitHub stats
+
 <div align="center">
   <table border="0">
     <tr>
